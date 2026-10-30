@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://torquecrew9.in",
+      "permanent": true
+    }
+  ]
+}

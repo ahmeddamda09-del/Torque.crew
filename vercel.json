@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/bestwebsite.html" }
+    { "source": "/(.*)", "destination": "/torquecrewoff.html" }
   ]
 }
